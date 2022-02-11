@@ -1,14 +1,15 @@
 ### Hi there 👋
-
-<!--
-**vw0389/vw0389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <div style="display: flex;">
   <img alt="Javascript" src="https://shields.io/badge/-javascript-green>
   <img alt="Python" src="https://img.shields.io/badge/-Python3-blue"/>
   <img alt="Git" src="https://img.shields.io/badge/-GIT-black"/>
 </div>
+                                                          
+<!--
+**vw0389/vw0389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
