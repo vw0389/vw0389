@@ -2,7 +2,8 @@
 <div style="display: flex;">
   <img alt="Javascript" src="https://shields.io/badge/-javascript-green"/>
   <img alt="Python" src="https://img.shields.io/badge/-Python3-blue"/>
-  <img alt="Git" src="https://img.shields.io/badge/-GIT-black"/>
+  <img alt="Git" src="https://img.shields.io/badge/-GIT-white"/>
+  <img alt="Java" src"https://img.shields.io/badge/-java-grey"/>
 </div>
                                                           
 <!--
