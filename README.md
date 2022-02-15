@@ -6,10 +6,10 @@ I'm Victor!
 - I'm interested in cheesing 4x games and MOBAs.  
 
 <div style="display: flex;">
-  <img style="padding-right:10px;" alt="Javascript" src="https://shields.io/badge/-javascript-green"/>
-  <img style="padding-right:10px;" alt="Python" src="https://img.shields.io/badge/-Python3-blue"/>
-  <img style="padding-right:10px;" alt="Java" src="https://img.shields.io/badge/-java-green"/>
-  <img style="padding-right:10px;" alt="bash" src="https://img.shields.io/badge/-bash-blue"/>
+  <img style="padding-right:20px;" alt="Javascript" src="https://shields.io/badge/-javascript-green"/>
+  <img style="padding-right:20px;" alt="Python" src="https://img.shields.io/badge/-python3-blue"/>
+  <img style="padding-right:20px;" alt="Java" src="https://img.shields.io/badge/-java-green"/>
+  <img style="padding-right:20px;" alt="bash" src="https://img.shields.io/badge/-bash-blue"/>
 </div>
 
 
