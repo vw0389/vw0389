@@ -1,18 +1,26 @@
 ### Hi there 👋
+I'm Victor!
+
+- Full Stack Programming Bootcamp (Aug 2021 - Feb 2022)
+- Relational Databases (MySQL, Postgres), Non-Relational Databases (MongoDB), Express.js, Django, React, Spring, Linux, Shell Scripting, Cloud Administration
+- I'm interested in cheesing 4x games and MOBAs.  
+
 <div style="display: flex;">
-  <img alt="Javascript" src="https://shields.io/badge/-javascript-green"/>
-  <img alt="Python" src="https://img.shields.io/badge/-Python3-blue"/>
-  <img alt="Git" src="https://img.shields.io/badge/-GIT-white"/>
-  <img alt="Java" src"https://img.shields.io/badge/-java-grey"/>
+  <img style="padding-right:10px;" alt="Javascript" src="https://shields.io/badge/-javascript-green"/>
+  <img style="padding-right:10px;" alt="Python" src="https://img.shields.io/badge/-Python3-blue"/>
+  <img style="padding-right:10px;" alt="Java" src="https://img.shields.io/badge/-java-green"/>
+  <img style="padding-right:10px;" alt="bash" src="https://img.shields.io/badge/-bash-blue"/>
 </div>
-                                                          
+
+
+
 <!--
 **vw0389/vw0389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- Full Stack Coding Bootcamp (Aug 2021 - Feb 2022)
+- I'm interested in cheesing 4x games and MOBAs.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
