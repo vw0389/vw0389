@@ -2,14 +2,15 @@
 I'm Victor!
 
 - Full Stack Programming Bootcamp (Aug 2021 - Feb 2022)
-- Relational Databases (MySQL, Postgres), Non-Relational Databases (MongoDB), Express.js, Django, React, Spring, Linux, Shell Scripting, Cloud Administration
+- Relational Databases (MySQL, Postgres), Non-Relational Databases (MongoDB), Laravel, Express.js, Django, React, Spring, Linux, Shell Scripting, Cloud Administration
 - I'm interested in cheesing 4x games and MOBAs.  
 
 <div style="display: flex;">
   <img style="padding-right:20px;" alt="Javascript" src="https://shields.io/badge/-javascript-green"/>
   <img style="padding-right:20px;" alt="Python" src="https://img.shields.io/badge/-python3-blue"/>
   <img style="padding-right:20px;" alt="Java" src="https://img.shields.io/badge/-java-green"/>
-  <img style="padding-right:20px;" alt="bash" src="https://img.shields.io/badge/-bash-blue"/>
+  <img style="padding-right:20px;" alt="Bash" src="https://img.shields.io/badge/-bash-blue"/>
+  <img style="padding-right:20px;" alt="PHP" src="https://img.shields.io/badge/-php-green"/>
 </div>
 
 
