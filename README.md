@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Victor!
 
-- Full Stack Programming Bootcamp (Aug 2021 - Feb 2022)
+- Backend Programmer.
 - Relational Databases (MySQL, DB2), Express.js, Spring Boot, React, Linux, Shell Scripting, Cloud Administration
 - I'm interested in cheesing 4x games and MOBAs.  
 
