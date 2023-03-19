@@ -1,10 +1,6 @@
-### Hi there 👋
-I'm Victor!
-
-- Backend Programmer.
-- Relational Databases (MySQL, DB2), Express.js, Spring Boot, React, Linux, Shell Scripting, Cloud Administration
-- I'm interested in cheesing 4x games and MOBAs.  
-
+### I'm Victor!
+- Backend Programmer, typically dealing with JVM languages/frameworks.
+- I'm interested in 4x games and MOBAs.  
 <div style="display: flex;">
   <img style="padding-right:20px;" alt="Javascript" src="https://shields.io/badge/-javascript-green"/>
   <img style="padding-right:20px;" alt="Python" src="https://img.shields.io/badge/-python3-blue"/>
