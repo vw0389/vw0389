@@ -1,5 +1,5 @@
 ### I'm Victor!
-- Backend Programmer, typically dealing with JVM languages/frameworks.
+- Fullstack Developer, typically dealing with JVM languages/frameworks and SPAs.
 - I'm interested in 4x games and MOBAs.  
 <div style="display: flex;">
   <img style="padding-right:20px;" alt="Javascript" src="https://shields.io/badge/-javascript-green"/>
